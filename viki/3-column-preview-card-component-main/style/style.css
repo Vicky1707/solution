@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+}
+
+.design {
+  padding: 15% 15% ;
+}
+
+.car{
+  margin: 40px 50px ;
+  font-family: 'Courgette', cursive;
+  color: #ffff;
+  line-height: 2;
+}
+
+.suv-car{
+  width: 3.75rem;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.top{
+  font-family: 'Otomanopee One', sans-serif;
+  color: #ffff;
+
+}
+
+.frist{
+  background-color: #FC5404;
+}
+
+.middle{
+background-color: #0D7377;
+}
+
+.last{
+background-color: #213E3B;
+}
+
+.btn{
+  margin: 20% auto 0 auto;
+  border-radius: 50px;
+}
